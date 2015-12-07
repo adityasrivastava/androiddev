@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "kleverkid-44de3",
+    "project_number": "710616700342",
+    "name": "KleverKid"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710616700342:android:4308d39d91ca2e6a",
+        "client_id": "android:kleverkid.assignment",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "kleverkid.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710616700342-0tv46pg7kitvshtb440eddth65ip801b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kleverkid.assignment",
+            "certificate_hash": "8C254B18C0A0277CC21A1D70FBABD526B231B114"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
