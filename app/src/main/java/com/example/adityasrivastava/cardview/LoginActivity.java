@@ -1,7 +1,5 @@
-package com.example.adityasrivastava.kleverkid;
+package com.example.adityasrivastava.cardview;
 
-import android.app.ActionBar;
-import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.net.ConnectivityManager;

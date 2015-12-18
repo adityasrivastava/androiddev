@@ -1,4 +1,4 @@
-package com.example.adityasrivastava.kleverkid.modal;
+package com.example.adityasrivastava.cardview.modal;
 
 import java.io.Serializable;
 

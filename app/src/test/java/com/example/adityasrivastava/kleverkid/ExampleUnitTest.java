@@ -1,4 +1,4 @@
-package com.example.adityasrivastava.kleverkid;
+package com.example.adityasrivastava.cardview;
 
 import org.junit.Test;
 

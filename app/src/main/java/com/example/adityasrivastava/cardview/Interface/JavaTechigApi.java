@@ -1,8 +1,4 @@
-package com.example.adityasrivastava.kleverkid.Interface;
-
-import com.example.adityasrivastava.kleverkid.modal.Posts;
-
-import java.util.List;
+package com.example.adityasrivastava.cardview.Interface;
 
 //import retrofit.Callback;
 //import retrofit.http.GET;

@@ -1,4 +1,4 @@
-package com.example.adityasrivastava.kleverkid;
+package com.example.adityasrivastava.cardview;
 
 import android.content.Context;
 import android.content.Intent;
@@ -13,17 +13,16 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.SearchView;
 import android.support.v7.widget.Toolbar;
-import android.text.Html;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.Toast;
 
-import com.example.adityasrivastava.kleverkid.adapter.CardViewAdapter;
-import com.example.adityasrivastava.kleverkid.listener.CardSelectionListener;
-import com.example.adityasrivastava.kleverkid.modal.PostDetails;
-import com.example.adityasrivastava.kleverkid.network.NetworkConnection;
+import com.example.adityasrivastava.cardview.adapter.CardViewAdapter;
+import com.example.adityasrivastava.cardview.listener.CardSelectionListener;
+import com.example.adityasrivastava.cardview.modal.PostDetails;
+import com.example.adityasrivastava.cardview.network.NetworkConnection;
 import com.facebook.appevents.AppEventsLogger;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;

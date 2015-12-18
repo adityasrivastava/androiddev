@@ -1,4 +1,4 @@
-package com.example.adityasrivastava.kleverkid;
+package com.example.adityasrivastava.cardview;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -12,10 +12,8 @@ import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.adityasrivastava.kleverkid.modal.PostDetails;
+import com.example.adityasrivastava.cardview.modal.PostDetails;
 import com.squareup.picasso.Picasso;
-
-import org.w3c.dom.Text;
 
 
 public class DetailsActivity extends Activity {

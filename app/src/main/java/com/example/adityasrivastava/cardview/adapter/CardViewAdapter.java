@@ -1,9 +1,9 @@
-package com.example.adityasrivastava.kleverkid.adapter;
+package com.example.adityasrivastava.cardview.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
-import com.example.adityasrivastava.kleverkid.R;
-import com.example.adityasrivastava.kleverkid.modal.PostDetails;
+import com.example.adityasrivastava.cardview.R;
+import com.example.adityasrivastava.cardview.modal.PostDetails;
 import com.squareup.picasso.Picasso;
 
 import android.view.LayoutInflater;
